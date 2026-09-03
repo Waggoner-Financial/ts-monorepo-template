@@ -30,6 +30,7 @@ tsconfig.tsbuildinfo
 *.sw?
 .vercel
 .claude/*
+!.claude/skills
 .codemogger/*
 .omx/
 .agents/ignore/
